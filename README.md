@@ -1,6 +1,6 @@
 - 👋 Salut, je suis @alinemegiolaro
 - 👀 Je suis interéssé au développement de pages web responsives
-- 🌱 J'apprends actuellement CSS, Saas, Bootstrap et PHP
+- 🌱 J'apprends actuellement CSS, Saas, Bootstrap, Wordpress et PHP
 - 💞️ Je cherche à collaborer sur la création et développement du front end des pages web
 - 📫 Comment me joindre: www.linkedin.com/in/aline-megiolaro-webdev/
 
