@@ -1,6 +1,6 @@
 - 👋 Salut, je suis @alinemegiolaro.
 - 👀 Je m'engage au développement de solution accessibles pour l'inclusion numérique.
-- 💞️ Je cherche à en savoir plus et à collaborer à la création et au développement front end.
+- 💞️ Je cherche en savoir plus et à collaborer à la création et au développement front end.
 - 📫 Comment me joindre: www.linkedin.com/in/aline-megiolaro-webdev/
 
 <!---
