@@ -1,7 +1,8 @@
 - 👋 Salut, je suis @alinemegiolaro.
-- 👀 Je m'engage au développement de solution accessibles pour l'inclusion numérique.
-- 💞️ Je cherche en savoir plus et à collaborer à la création et au développement front end.
-- 📫 Comment me joindre: www.linkedin.com/in/aline-megiolaro-webdev/
+- 💻 Mon portfolio : https://alinemegiolaro.github.io/myPortfolio/index.html
+- 👀 Je m’engage dans le développement de solutions accessibles et dans l’amélioration continue des processus.
+- 😄 Je cherche en savoir plus et à collaborer au développement de solutions numériques innovantes.
+- 📫 Comment me joindre : www.linkedin.com/in/aline-megiolaro-webdev/
 
 <!---
 alinemegiolaro/alinemegiolaro is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
